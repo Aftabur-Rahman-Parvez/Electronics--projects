@@ -1,0 +1,386 @@
+h1,h2,h3,h4,p{
+	margin:0px;
+	padding:0px;
+}
+a{
+	text-decoration:none;
+}
+
+
+body{
+	margin:0px;
+	padding:0px;
+	width:90%;
+	margin:0 auto;
+	
+}
+#logo-part{
+	width:100%;
+	height:70px;
+	position:relative;
+	margin:0px;
+	padding:0px;
+	
+	
+}
+.logo-image{
+	position:absolute;
+	top:0;
+	left:0;
+	height:70px;
+	
+}
+.logo-image img{
+	width:1215px;
+	height:70px;
+	opacity:.3;
+}
+.logo {
+  left: 0;
+  margin-left: 67px;
+  position: absolute;
+  top: 0;
+  width: 25%;
+}
+.logo h1 a {
+  color: #3399ff;
+  font-size: 47px;
+  text-shadow: 10px 2px 3px gray;
+  font-family:Andalus;
+}
+.social-network {
+  left: 500px;
+  position: absolute;
+  top: 2px;
+  width: 50%;
+}
+.social-network  img {
+  height: 60px;
+  margin-left: 76px;
+  top: 10px;
+  width: 60px;
+  border:2px solid #3399FF;
+  border-radius:50%;
+}
+#menu-part{
+	position:relative;
+	top:0;
+	height:70px;
+	width:100%;
+	background:#8192a0;
+}
+.menu {
+  left: 10%;
+  position: absolute;
+  width: 80%;
+}
+.menu ul{
+	margin:0px;
+	padding:0px;
+	
+}
+.menu ul li {
+  float: left;
+  list-style: outside none none;
+  margin-right: 30px;
+}
+.menu ul li a {
+  border-right: 2px solid #6a6f74;
+  color: white;
+  display: block;
+  font-family: times new roman;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 13px;
+  padding: 10px 23px;
+  text-shadow: 8px 6px 2px gray;
+}
+#top-selling-product{
+	margin:0px;
+	padding:0px;
+	background:#eefbfe;
+	height:470px;
+
+}
+.top-selling-product-1 {
+  height: 60px;
+  margin: 0 auto;
+  position: relative;
+  top: 30px;
+  width: 100%;
+}
+.top-selling-product-1 h1 {
+  color: #53a3f3;
+  font-family: Berlin Sans FB;
+  font-size: 40px;
+  text-align: center;
+}
+.top-selling-product-2 {
+  clear: both;
+  display: block;
+  margin-top: 52px;
+  padding: 0;
+  width: 100%;
+}
+.top-selling-product-2-1 {
+  background: none repeat scroll 0 0 black;
+  float: left;
+  height: 311px;
+  margin-left: 50px;
+  width: 20%;
+  border: 1px solid gray;
+}
+.top-selling-product-2-1 img{
+	width:100%;
+	height:250px;
+	
+
+}
+.top-selling-product-2-1 p {
+  color: white;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 14px;
+}
+#hot-bands-part{
+	background:#4a4b4c;
+	width:100%;
+	height:300px;
+	border-top:2px solid gainsboro;
+	border-bottom:1px solid gainsboro;
+}
+.hot-bands-part-1 {
+  border-right: 1px solid #7a7a7a;
+  margin-left: 45px;
+  margin-top: 36px;
+  width: 20%;
+  float:left;
+}
+.hot-bands-part-1 h1 {
+  color: #7abaf9;
+  font-family: Bodoni MT;
+  font-size: 28px;
+  margin-left: 22px;
+}
+.hot-bands-part-1 ul{
+	margin-left:30px;
+}
+.hot-bands-part-1 ul li a {
+  color: white;
+  font-size: 20px;
+  line-height: 30px;
+}
+.hot-bands-part-2{
+  border-right: 1px solid #7a7a7a;
+  margin-left:20px;
+  margin-top: 36px;
+  width: 30%;
+  float:left;
+}
+.hot-bands-part-2 h1 {
+  color: #7abaf9;
+  font-family: Bodoni MT;
+  font-size: 28px;
+  margin-left: 61px;
+}
+.hot-bands-part-2 ul {
+  margin: 0;
+  padding: 0;
+  margin-left: 36px;
+}
+.hot-bands-part-2 ul li {
+  background: none repeat scroll 0 0 #eefbfe;
+  height: 30px;
+  list-style: outside none none;
+  margin-left: 0;
+  margin-right: 66px;
+  margin-top: 5px;
+}
+.hot-bands-part-2 ul li a {
+  color: black;
+  font-size: 20px;
+  line-height: 30px;
+  margin-left: 13px;
+}
+.hot-bands-part-3 {
+  float: left;
+  margin-left: 0px;
+  margin-top: 36px;
+  width: 39%;
+}
+.hot-bands-part-3 h1{
+  color: #7abaf9;
+  font-family: Bodoni MT;
+  font-size: 28px;
+  margin-left: 61px;
+}
+.hot-bands-part-3 img {
+  border: 1px solid gray;
+  float: left;
+  height: 49px;
+  margin-left: 42px;
+  margin-top: 12px;
+  padding: 12px;
+  width: 76px;
+  border-radius: 50% 8%;
+}
+#top-band-sells{
+	width:100%;
+	height:400px;
+	background:#919faa;
+	border-bottom:2px solid gray;
+}
+.top-band-sells-1{
+	display:block;
+	height:60px;
+	width:50%;
+	margin:0 auto;
+	background:#3a96dd;
+}
+.top-band-sells-1 h1 {
+  color: white;
+  font-size: 38px;
+  line-height: 60px;
+  text-align: center;
+}
+.top-band-sells-2{
+	width:100%;
+	margin-top:56px;
+	
+	
+}
+.top-band-sells-2-2 {
+  border-right: 1px solid #7a7a7a;
+  float: left;
+  margin-left: 47px;
+  margin-right: 0;
+  width: 20%;
+}
+.top-band-sells-2-2 img {
+  border: 6px solid #7a7a7a;
+  float: left;
+  height: 40%;
+  margin: 9px 11px 6px 3px;
+  width: 40%;
+}
+.top-band-sells-2-2 h1{
+	margin-bottom:16px;
+	color:black;
+}
+.top-band-sells-2-2 p{
+	color:white;
+}
+#image-part {
+  background: none repeat scroll 0 0 #eefbfe;
+  border-bottom: 2px solid gray;
+  height: 3400px;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+.image-part-1 h1 {
+  background: none repeat scroll 0 0 #3399ff;
+  color: white;
+  line-height: 70px;
+  margin: 0 auto;
+  text-align: center;
+  width: 100%;
+}
+.computer-part{
+	width:100%;
+	margin-top:20px;
+	
+	
+}
+.computer-part-1 h2 {
+  color: black;
+  font-size: 29px;
+  line-height: 27px;
+  margin-bottom: 32px;
+  margin-left: 13px;
+  text-align: center;
+  text-shadow: 7px 3px 3px gray;
+}
+.computer-image{
+
+	
+}
+.computer-image-1 {
+  background: none repeat scroll 0 0 white;
+  border: 1px solid black;
+  float: left;
+  height: 330px;
+  margin-left: 46px;
+  width: 20%;
+  margin-bottom: 50px;
+}
+.computer-image-1 img {
+  height: 240px;
+  width: 100%;
+  border-bottom: 1px dashed black;
+}
+.computer-image-1 h3 {
+  color: black;
+  font-size: 1.5em;
+  text-align: center;
+}
+.computer-image-1 p {
+  color: black;
+  font-size: 18px;
+  text-align: center;
+}
+.computer-image-1 span {
+  color: red;
+  font-size: 22px;
+  margin-left: 144px;
+}
+#information{
+	background:#4a4b4c;
+	margin:0px;
+	padding:0px;
+	
+}
+.information-1{
+	width:30%;
+	margin:0px;
+	padding:0px;
+	float:left;
+
+	
+}
+.information-1 h1{
+	color:white;
+}
+.information-1 ul{
+	margin:0px;
+	padding:0px;
+}
+.information-1 ul li{
+	list-style:none;
+	
+}
+.information-1 ul li a{
+	text-decoration:none;
+	color:white;
+	display:block;
+	
+}
+
+
+#footer{
+	width:100%;
+	height:60px;
+	background:#28292B;
+	margin:0px;
+	padding:0px;
+	clear:both;
+}
+#footer p {
+  color: white;
+  font-size: 22px;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  line-height: 58px;
+  font-family:Agency FB;
+}
